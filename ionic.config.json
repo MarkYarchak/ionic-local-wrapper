@@ -1,0 +1,7 @@
+{
+  "name": "notex.ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
